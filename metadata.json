@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Siswa PJJ - SDN 001 Sangatta Selatan",
+  "description": "Daftar Hadir Siswa PJJ Kelas 6 SDN 001 Sangatta Selatan mata pelajaran Bahasa Indonesia dengan sambutan pantun ceria dan kamera watermark timestamp.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
